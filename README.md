@@ -1,5 +1,5 @@
 <!--![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)-->
-<h1 align="center">Hi 👋, I'm Kedhar Nadh!</h1>
+<h1 align="center">Hi 👋, I'm Kedharnadh Degala!</h1>
 
 <img align="right" padding=30px alt="Coding" height="300" width="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--udbxvPC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pi9le9v004gzqdqo65p8.gif">
 <!-- https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif -->
