@@ -7,10 +7,10 @@
 <br>
 
 
-  <a href="https://www.linkedin.com/in/gangadhar-matta-81b49a214/">
+  <a href="https://www.linkedin.com/in/degala-kedharnadh-415210246">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="gangadharm877@gmail.com">
+  <a href="kedhar020@gmail.com">
     <img align="left" alt="gangadharm877@gmail.com | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
   </a>
   <br>
