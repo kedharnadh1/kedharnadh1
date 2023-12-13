@@ -23,7 +23,7 @@
 -->
 
 🔭 I’m currently working on "DevOps_Tools" <br>
-🌱 I’m currently learning DSA along with AWS_DevOps <br>
+🌱 I’m currently learning DSA along with Azure_Devops <br>
 👯 I like Leading,i love Team Worker.<br>
 💬 Trying to get the best version of Myself.<br>
 ⚡ I love Web Development<br>
